@@ -5,3 +5,7 @@ ingredients :
     Ghee 100g
     Onion 1kg
     Chicken 1kg
+    Tomato 1kg
+    Cashew nut 100g
+    Jeera 50g
+    
